@@ -1,0 +1,117 @@
+body {
+    /* text-align: center; */
+    background-color: white;
+    margin-top:30px;
+    margin-left: -500px;
+   
+}
+
+.create-candidate {
+    width: 100%;
+    padding: 40px 50px;
+    margin: 3px;
+    display: inline-block;
+    border: 1px solid rgb(173, 130, 160);
+    border-radius: 20px;
+    box-sizing: border-box;
+    
+}
+
+#text1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: large;
+    color: rgb(7, 4, 4);
+    margin: 0px;
+}
+
+#text2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: large;
+    color: rgb(7, 4, 4);
+    margin: 0px;
+}
+
+#text3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: large;
+    color: rgb(7, 4, 4);
+    margin: 0px;
+}
+
+#text4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: large;
+    color: rgb(7, 4, 4);
+    margin: 0px;
+}
+
+#writeText1{
+    width: 100%;
+    padding: 12px 20px;
+    margin-top: -10px;
+    margin-left: 5px;
+    box-sizing: border-box;
+    border: 1px solid rgb(173, 130, 160);
+    border-radius: 4px;
+}
+
+#writeText2{
+    width: 100%;
+    padding: 12px 20px;
+    margin-top: -10px;
+    margin-left: 5px;
+    box-sizing: border-box;
+    border: 1px solid rgb(173, 130, 160);
+    border-radius: 4px;
+}
+
+#writeText3{
+    width: 100%;
+    padding: 12px 20px;
+    margin-top: -10px;
+    margin-left: 5px;
+    box-sizing: border-box;
+    border: 1px solid rgb(173, 130, 160);
+    border-radius: 4px;
+}
+
+#writeText4{
+    width: 100%;
+    padding: 12px 20px;
+    margin-top: -10px;
+    margin-left: 5px;
+    box-sizing: border-box;
+    border: 1px solid rgb(173, 130, 160);
+    border-radius: 4px;
+}
+
+
+#btnAddCandidate{
+    background-color: rgb(173, 130, 160); 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#btnShowCandidates{
+    background-color: rgb(173, 130, 160); 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
